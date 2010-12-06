@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Stereodroid!</string>
+	<string name="app_name">Stereodroid</string>
+	<string name="app_label">Stereodroid</string>
+	<string-array name="search_types">
+		<item>Mood</item>
+		<item>Activity</item>
+		<item>Site</item>
+	</string-array>
+	<string name="search_label">Search mood</string>
+	<string name="search_hint">Search mood</string>
+</resources>
